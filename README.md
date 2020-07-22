@@ -1,6 +1,6 @@
 1. Connect to docker host and run command in step 2 on host 
 2 git clone "https://github.com/nancybnsl/DockerDemo"
-3.cd /app
+3. cd DockerDemo/
 4. build image from dockerfile
 	docker build -t docker-101 .
 5. run command - docker images to verify image created with name docker-101	
